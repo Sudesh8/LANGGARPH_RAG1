@@ -45,7 +45,7 @@ Installation
 
 Clone the repository:
 
-git clone <YOUR_REPO_LINK_HERE>
+git clone https://github.com/Sudesh8/LANGGARPH_RAG1.git
 cd <YOUR_REPO_NAME>
 
 
