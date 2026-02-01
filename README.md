@@ -1,6 +1,3 @@
-# LANGGARPH_RAG1
-Agentic LANGGARPH
-
 Agentic AI RAG Chatbot 🤖
 
 An AI Engineer interview submission implementing a RAG (Retrieval-Augmented Generation) pipeline using LangGraph, FAISS, and Streamlit. This chatbot strictly answers questions based on the provided Agentic AI eBook.
@@ -45,7 +42,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/Sudesh8/LANGGARPH_RAG1.git
+git clone <YOUR_REPO_LINK_HERE>
 cd <YOUR_REPO_NAME>
 
 
@@ -104,5 +101,4 @@ rag1.py - Backend logic (LangGraph definition, FAISS setup, retrieval tool).
 vectorstore/ - Directory where the FAISS index is saved locally.
 
 requirements.txt - List of Python dependencies.
-
 
