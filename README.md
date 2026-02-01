@@ -2,6 +2,9 @@ Agentic AI RAG Chatbot 🤖
 
 An AI Engineer interview submission implementing a RAG (Retrieval-Augmented Generation) pipeline using LangGraph, FAISS, and Streamlit. This chatbot strictly answers questions based on the provided Agentic AI eBook.
 
+<img width="1894" height="855" alt="image" src="https://github.com/user-attachments/assets/7926488e-f86c-4cba-b613-b03dea044c80" />
+
+
 📋 Features
 
 Strict Grounding: Answers are generated only using context retrieved from the provided PDF.
